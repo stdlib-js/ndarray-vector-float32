@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5662f92`](https://github.com/stdlib-js/stdlib/commit/5662f920d833b3033ac24e38ef2a13b7506f7495) - **docs:** update example _(by Athan Reines)_
 -   [`b599489`](https://github.com/stdlib-js/stdlib/commit/b5994896400e31d3850ba003a2eb016142bf6c9a) - **docs:** fix signature _(by Athan Reines)_
 -   [`e8064cd`](https://github.com/stdlib-js/stdlib/commit/e8064cdc716fc9381a143620ef291722dba49228) - **feat:** add `ndarray/vector/float32` _(by Athan Reines)_
 
