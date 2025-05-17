@@ -73,7 +73,7 @@ To view installation and usage instructions specific to each branch build, be su
 var Float32Vector = require( '@stdlib/ndarray-vector-float32' );
 ```
 
-#### Float32Vector( \[, options] )
+#### Float32Vector( \[options] )
 
 Returns a one-dimensional single-precision floating-point [ndarray][@stdlib/ndarray/ctor].
 
